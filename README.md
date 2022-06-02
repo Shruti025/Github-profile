@@ -5,7 +5,7 @@
 </a>
 
       
-### <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">,  I'm Shruti Goyal, an aspiring Full Stack Web Developer</h1>
+### <h1 align="center">Hello,  I'm Shruti Goyal, an aspiring Full Stack Web Developer</h1>
  
 #### <h3 align="center">I'm a 3rd Year B.Tech UG with a keen interest in coding and reading :)<h3/>
  - ✌️ Currently Pursuing *`B.Tech From NIT Surat`*
